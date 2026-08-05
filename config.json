@@ -1,5 +1,5 @@
 {
-  "is_app_active": true,
+  "is_app_active": false,
   "block_message": "برنامه به دلیل به‌روزرسانی سیستم به مدت ۲ ساعت غیرفعال شده است.",
   "show_announcement": true,
   "announcement_text": "📢 پیام مدیریت: به نسخه جدید خوش آمدید! سیگنال‌ها به‌روزرسانی شدند."
